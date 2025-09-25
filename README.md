@@ -2,16 +2,6 @@
 
 A comprehensive web dashboard that integrates with Google Classroom API to track student progress, improve communication, and generate metrics for educational programs.
 
-## 🎯 Features
-
-- **Google Classroom Integration**: Direct connection to Google Classroom API
-- **Student Progress Tracking**: Monitor assignment completion, late submissions, and overall progress
-- **Role-based Views**: Different interfaces for students, teachers, and coordinators
-- **Advanced Filtering**: Filter by course, assignment status, and late deliveries
-- **Analytics & Reports**: Graphical charts and exportable CSV reports
-- **Automated Notifications**: Email, WhatsApp, and Telegram notifications (configurable)
-- **Responsive Design**: Modern UI with Bootstrap 5
-
 ## 🚀 Setup Guide
 
 ### Step 1: Google Cloud Console Setup
